@@ -10,7 +10,9 @@
 	text-align:center;
 }
 .image{
-	/* width:300px; */
+	width:auto;
+	height: auto;
+	object-fit:cover;
 }
 #explore{
 	background-color:red;
