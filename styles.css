@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+.hero{
+	display:flex;
+	justify-content:space-evenly;
+	align-items:center;
+	/* padding:50px; */
+}
+.text{
+	padding:20px;
+	text-align:center;
+}
+.image{
+	/* width:300px; */
+}
+#explore{
+	background-color:red;
+	padding:10px;
+	color:white;
+}
